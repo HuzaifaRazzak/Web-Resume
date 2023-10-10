@@ -4,8 +4,12 @@ body {
     font-family: Helvetica, Arial, sans-serif;
 }
 h2 {
-    text-align: center;
+    text-align: left;
 }
 a {
     color:#000001
+}
+h3 {
+    text-align: left;
+    font-style: italic;
 }
